@@ -19,9 +19,9 @@ likes(["Алексей", "Яков", "Марк", "Макс"]); // должна �
 Упрощенный вариант для английской локализации:
 
 ```php
-likes [] // должна вернуть "no one likes this"
-likes ["Peter"] // должна вернуть "Peter likes this"
-likes ["Jacob", "Alex"] // должна вернуть "Jacob and Alex like this"
-likes ["Max", "John", "Mark"] // должна вернуть "Max, John and Mark like this"
-likes ["Alex", "Jacob", "Mark", "Max"] // должна вернуть "Alex, Jacob and 2 others like this"
+likes([]); // должна вернуть "no one likes this"
+likes(["Peter"]); // должна вернуть "Peter likes this"
+likes(["Jacob", "Alex"]); // должна вернуть "Jacob and Alex like this"
+likes(["Max", "John", "Mark"]); // должна вернуть "Max, John and Mark like this"
+likes(["Alex", "Jacob", "Mark", "Max"]); // должна вернуть "Alex, Jacob and 2 others like this"
 ```
