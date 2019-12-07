@@ -25,3 +25,5 @@ likes(["Jacob", "Alex"]); // должна вернуть "Jacob and Alex like th
 likes(["Max", "John", "Mark"]); // должна вернуть "Max, John and Mark like this"
 likes(["Alex", "Jacob", "Mark", "Max"]); // должна вернуть "Alex, Jacob and 2 others like this"
 ```
+
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/php
