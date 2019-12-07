@@ -5,7 +5,7 @@ https://www.codewars.com/kata/reviews/5b7350df86283d6338000089/groups/5dc2466084
 https://www.codewars.com/kata/reviews/57bf1a1cb0fa133d8900005d/groups/57bf96b4b7f7361608000218
 
 ### Кому это понравилось
-In progress...
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362/solutions/php/me/best_practice
 
 ### Расшифруйте азбуку Морзе
-In progress...
+https://www.codewars.com/kata/54b724efac3d5402db00065e/solutions/php/me/best_practices
