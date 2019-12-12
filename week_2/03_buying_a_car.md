@@ -21,13 +21,13 @@
 /**
  * Возвращает массив двух чисел с количество месяцев и суммой
  * 
- * @var int $oldCarPrice - стоимость старой машины
- * @var int $newCarPrice - стоимость новой машины
- * @var int $storedAmountPerMonth - сколько денег может откладывать в месяц
- * @var float $devaluation - Процент обесценивания 
+ * @var int $startPriceOld - стоимость старой машины
+ * @var int $startPriceNew - стоимость новой машины
+ * @var int $savingPerMonth - сколько денег может откладывать в месяц
+ * @var float $percentLossByMonth - Процент обесценивания 
  * 
  * return[int $months, int $remainingAmount]
  */
-nbMonths(int $oldCarPrice, int $newCarPrice, int $storedAmountPerMonth, float $devaluation): array
+nbMonths(int $startPriceOld, int $startPriceNew, int $savingPerMonth, float $percentLossByMonth): array
 ```
 https://www.codewars.com/kata/554a44516729e4d80b000012
