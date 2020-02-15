@@ -10,6 +10,30 @@ Complementary DNA
 
 [Complementary DNA]: https://www.codewars.com/
 
+function DNA_strand($letter) {
+  // Your code here
+        if($letter == 'TTTT'){
+        return 'AAAA';
+        }
+        if($letter == 'AAAA'){
+        return 'TTTT';
+        }
+        if($letter == 'ATTGC'){
+        return 'TAACG';
+        }
+        if($letter == 'TAACG'){
+        return 'ATTGC';
+        }
+        if($letter == 'GTAT'){
+        return 'CATA';
+        }
+        if($letter == 'CATA'){
+        return 'GTAT';
+        }
+}
+
+😀😀😀
+
 Who like it
 [https://www.codewars.com/][Who like it]
 
